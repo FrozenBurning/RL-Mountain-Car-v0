@@ -1,0 +1,6 @@
+model
+upload
+__pycache__
+*.jpg
+*.npy
+*test.py
